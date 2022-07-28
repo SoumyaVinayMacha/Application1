@@ -1,1 +1,2 @@
 This is FileA
+Adding change1 for version2
